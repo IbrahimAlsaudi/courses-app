@@ -6,7 +6,7 @@ The Courses App is a simple application built using Kotlin Jetpack Compose that 
 
 - **Grid View:** Topics are displayed in a grid layout, making it easy for users to browse through different topics.
 - **Topic Cards:** Each topic is represented by a card containing an image, title, and the number of courses available for that topic.
-- **Icon Integration:** The application includes an icon to enhance the overall visual appeal.
+- **Logo Integration:** The application includes logo to enhance the overall visual appeal.
 - **Theme Support:** The app features support for both light and dark themes, providing users with a seamless experience across different preferences.
 
 
@@ -25,7 +25,11 @@ To get started with the Courses App, follow these steps:
 3. Build and run the application on an emulator or a physical device.
 
 ## Screenshots
+
+### App  Screenshot
 <img src="screenshots/Screenshot_20240326_125847.png" width=500 height=1000>
+
+### App Logo
 <img src="screenshots/img.png" width=192 height=192>
 
 
