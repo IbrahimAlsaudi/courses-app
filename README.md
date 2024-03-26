@@ -25,9 +25,8 @@ To get started with the Courses App, follow these steps:
 3. Build and run the application on an emulator or a physical device.
 
 ## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+<img src="screenshots/Screenshot_20240326_125847.png" width=500 height=1000>
+<img src="screenshots/img.png" width=192 height=192>
 
 
 ## Contributing
