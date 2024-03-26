@@ -17,7 +17,7 @@ To get started with the Courses App, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/courses-app.git
+    git clone https://github.com/IbrahimAlsaudi/courses-app.git
     ```
 
 2. Open the project in Android Studio or your preferred IDE.
